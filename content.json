@@ -1,0 +1,72 @@
+{
+  "site_name": "Die Physiotherapeuten",
+  "branche": "Physiotherapeut",
+  "stadt": "Stuttgart",
+  "telefon": "",
+  "email": "",
+  "adresse": "Mühlstr. 12 71691 Freiberg am Neckar (Beihingen)",
+  "akzent": "#008CBA",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Effektive Physiotherapie in Stuttgart",
+  "subline": "Schmerzfrei und bewegungsfähig, schnell wie nie.",
+  "ueber_titel": "Die Physiotherapeuten - Ihre Gesundheit ist unser Anliegen",
+  "ueber_text": "Unsere erfahrenen Physiotherapeuten in Stuttgart bieten individuelle Behandlungen für Rückenschmerzen, Sportverletzungen und vieles mehr. Wir helfen Ihnen, wieder vollständig mobil zu werden.",
+  "leistungen": [
+    {
+      "titel": "Rückenschmerzen",
+      "text": "Spezialisierte Therapie zur Schmerzlinderung."
+    },
+    {
+      "titel": "Sportinjury Behandlung",
+      "text": "Schnelle und effektive Wiederherstellung nach Verletzungen."
+    },
+    {
+      "titel": "Mobilitätserhöhung",
+      "text": "Übungen, um Ihre Beweglichkeit zu verbessern."
+    },
+    {
+      "titel": "Schmerzlinderung",
+      "text": "Ziele die Schmerzen durch gezielte Therapie."
+    }
+  ],
+  "cta_text": "Termin vereinbaren",
+  "seo_title": "Die Physiotherapeuten Stuttgart - Effektive Behandlungen",
+  "seo_desc": "Effektive physiotherapeutische Behandlung in Stuttgart. Schnell und gezielt, um Sie wieder mobil zu machen.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "physio.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Einzelbehandlung",
+        "ab": 30,
+        "bis": 80
+      },
+      {
+        "name": "Massage",
+        "ab": 35,
+        "bis": 90
+      },
+      {
+        "name": "10er-Karte",
+        "ab": 250,
+        "bis": 600
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "hero_refresh_version": 7
+}
